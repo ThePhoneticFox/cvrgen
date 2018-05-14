@@ -33,7 +33,7 @@ def assembler():
     header3.add_run(cfg.bodylist[cfg.chooselist[2]])
     header3.runs[0].font.bold = True
 
-    #cfg.coverletter.save('TestRun1.docx')
+
 #TODO Construct docx file
 
 
